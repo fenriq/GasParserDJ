@@ -1,0 +1,1299 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Цены на топливо в России на сегодня 20 августа 2024, калькулятор топлива</title>
+    <meta name="description" content="График изменения цены топлива на АЗС на 20 августа 2024 в России ⏩ Динамика цен по годам ⏩ Калькулятор топлива ⏩ История цен ⏩ Информеры топлива." />
+    <link rel="stylesheet" type="text/css" href="/js/jquery.formstyler.css">    
+        <link rel="stylesheet" type="text/css" href="/styles/jquery-ui.css?v=20201130">
+    <link rel="stylesheet" type="text/css" href="/styles/styles.css?v=1721847251">
+    <link rel="stylesheet" type="text/css" href="/styles/jcarousel.responsive.css?v=20200225">
+    <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+        <link rel="canonical" href="https://driff.ru/fuel-dynamics/" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KC93W43');</script>
+<!-- End Google Tag Manager -->
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+</head>
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KC93W43"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="text/javascript">
+var id_marka_graph = false; var is_fav = false;
+</script>
+
+<div class="fullscreen-banner">
+<!-- Yandex.RTB R-A-1433762-23 100%x200 верхняя вместо Adsense -->
+<div id="yandex_rtb_R-A-1433762-23"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1433762-23',
+    blockId: 'R-A-1433762-23'
+  })
+})</script>
+</div>
+    
+<section class="nav_wrap">
+<header> 
+    <div class="header_tooltip">
+        <div class="header_container">
+        <div class="model_block">
+            <a href="/ads-comparison/" class="auth-required-link"><span class="model-comparisons-icon"></span> Сравнение</a></div>
+            <a href="/favorites/" class="auth-required-link"><i class="fa fa-heart"></i> Избранное</a>
+            <div class="region_block"><i class="fa fa-map-marker"></i><a href="#region_popup" class="popup_link">Москва</a></div>
+        </div>
+    </div>
+    <div class="header clearfix">
+        
+        <div class="main-logo">
+            <a href="/">
+                <picture>
+                    <img src="/images/header/main-logo.svg" alt="Driff.ru">
+                </picture>
+            </a>
+        </div><!--end MAIN LOGO-->
+        
+        <nav id="nav-wrap" class="bg-nav"><div id="menu-icon"></div>
+            <ul id="nav" class="nav">
+                <li>
+                    <a href="/auto/" style="padding-right: 30px;">Объявления</a>
+                </li>
+
+                <li class="left_p"><span class="plus" onclick="show_sub(this);"><i class="fa fa-caret-down" aria-hidden="true"></i></span>
+                    <a href="/service/" style="background-image: url(/images/header/icon-triangle.png); padding-right: 30px;">Компании</a>
+                    <ul class="sub-menu">
+                                              <li><a href="/service/sto/">Автосервисы</a></li>                                                                                                                                                                                                                                                                                              <li><a href="/service/shinomontazh/">Шиномонтажи</a></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <li><a href="/service/avtostoyanki/">Парковки</a></li>                                                                                                                                                                      <li><a href="/service/avtodilery/">Автодилеры</a></li>                                                                                                                                                                                              <li><a href="/service/avtomoyki/">Автомойки</a></li>                                                                                                                                                                                                                                                                                                                                                                                              <li><a href="/service/avtoprokat/">Автопрокат</a></li>                                                                                                                                                                      <li><a href="/service/avtohausy/">Автосалоны</a></li>                                                                                                                                                                                                                                                                                              <li><a href="/service/avtoshkoly/">Автошколы</a></li>                                                                                                                                                                                                                                                                                                                                                                      <li><a href="/service/azs/">АЗС</a></li>                                                                                                                                                                                                                      <li><a href="/service/gruzoperevozki/">Грузоперевозки</a></li>                                                                                                                  </ul>
+                </li>
+
+                <li class="left_p"><span class="plus" onclick="show_sub(this);"><i class="fa fa-caret-down" aria-hidden="true"></i></span>
+                    <a href="/all/" style="background-image: url(/images/header/icon-triangle.png); padding-right: 30px;">Журнал</a>
+                    <ul class="sub-menu">
+                        <li><a href="/all/russia/">В России</a></li>
+                        <li><a href="/all/world/">В мире</a></li> 
+                        <li><a href="/all/autosport/">Автоспорт</a></li> 
+                    </ul>
+                </li>
+
+                <li class="left_p" style="padding-right: 11px;">
+                    <a href="/catalog/">Каталог</a>
+                </li>
+
+                <li class="left_p"><span class="plus" onclick="show_sub(this);"><i class="fa fa-caret-down" aria-hidden="true"></i></span>
+                    <a href="#" style="background-image: url(/images/header/icon-triangle.png); padding-right: 30px;">Ещё</a>
+                    <ul class="sub-menu">
+                        <li><a href="/fuel-dynamics/">Цены на топливо</a></li>
+                        <li><a href="/pdd-online/">ПДД-онлайн</a></li>
+                        <li><a href="/auto/customs-calculator.html">Таможенный калькулятор</a></li>
+                        <li><a href="/auto/price-behavior.html">График цен на авто</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+            <div class="wrap-registration display">
+                <span class="link-entry">
+                    <a href="/autor/enter.php" id="popup-autoreg"><i class="fa fa-sign-in" aria-hidden="true"></i>Войти</a>
+                </span>
+            </div>
+                                    <a href="/auto/add/"><span class="add-ads"><i class="fa fa-plus" aria-hidden="true"></i>Подать объявление</span></a>
+            
+
+        </div><!--end HEADER--> 
+        <div class="wrap-sub-nav">
+            <div class="sub-nav" itemscope itemtype="https://schema.org/BreadcrumbList">
+                <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a href="/" itemprop="item"><span itemprop="name">Главная</span></a>
+                    <meta itemprop="position" content="1" />
+                </span>
+                <i class="fa fa-angle-right" aria-hidden="true"></i>              
+                <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <span itemprop="name">Цены на топливо</span>
+                    <meta itemprop="position" content="2" />
+                </span>
+            </div>
+        </div>
+    </header>
+
+    <div class="wrapper clearfix add-page">
+        <h1>Цены на топливо в <a href="#fuel_region_popup" class="popup_link fuel_popup_link">России</a></h1>
+        <div class="super-wrap">
+            <div class="content">
+            
+                                    <div class="quick_view mb">
+                        <div class="section_list">
+                            <div class="items">
+                                                                <a href="/fuel-dynamics/ai-92/">АИ-92</a>
+                                                                <a href="/fuel-dynamics/ai-95/">АИ-95</a>
+                                                                <a href="/fuel-dynamics/dt/">ДТ</a>
+                                                                <a href="/fuel-dynamics/gaz/">Газ</a>
+                                                                <a href="/fuel-dynamics/ai-98/">АИ-98</a>
+                                                                <a href="/fuel-dynamics/ac-peremenniy-tok/">AC (Переменный ток)</a>
+                                                                <a href="/fuel-dynamics/dc-postoyanniy-tok/">DC (Постоянный ток)</a>
+                                                            </div>
+                        </div>
+                    </div>
+                                <div class="section">
+                    <div class="section-head">
+                        <h2>Стоимость литра/кВт*ч <span class="toplivo-question-mark" data-hover-text="Среднестатистическая цена на основании общедоступных данных от АЗС">?</span></h2>
+                        <div class="sort-btns currency-sort fuel-sort">                
+                            <a href="#" class="btn btn-currency active" onclick="return changeFuelComparePrices(event)" data-currency-id="1">RUB</a>
+                            <a href="#" class="btn btn-currency" onclick="return changeFuelComparePrices(event)" data-currency-id="2">USD</a>
+                            <a href="#" class="btn btn-currency" onclick="return changeFuelComparePrices(event)" data-currency-id="3">EUR</a>
+                        </div>
+                    </div>
+                    <div class="compare-prices-wrap">
+                        <table class="standart" id="compare-prices">
+    <thead>
+    <tr>
+        <th><span>Вид топлива</span></th>
+        <th><span>Сегодня</span></th>
+        <th><span>Неделю назад</span></th>
+        <th><span>Месяц назад</span></th>
+        <th><span>Год назад</span></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>АИ-92</td>
+        <td>53.22</td>
+        <td>53.22</td>
+        <td>52.72<sup class="toplivo-price-shift toplivo-price-shift__up">+0.94%</sup>
+</td>
+        <td>50.30<sup class="toplivo-price-shift toplivo-price-shift__up">+5.49%</sup>
+</td>
+    </tr>
+    <tr>
+        <td>АИ-95</td>
+        <td>57.00</td>
+        <td>57.00</td>
+        <td>56.00<sup class="toplivo-price-shift toplivo-price-shift__up">+1.75%</sup>
+</td>
+        <td>54.21<sup class="toplivo-price-shift toplivo-price-shift__up">+4.89%</sup>
+</td>
+    </tr>
+    <tr>
+        <td>АИ-98</td>
+        <td>67.03</td>
+        <td>67.03</td>
+        <td>66.03<sup class="toplivo-price-shift toplivo-price-shift__up">+1.49%</sup>
+</td>
+        <td>64.33<sup class="toplivo-price-shift toplivo-price-shift__up">+4.03%</sup>
+</td>
+    </tr>
+    <tr>
+        <td>ДТ</td>
+        <td>66.08</td>
+        <td>66.08</td>
+        <td>65.66<sup class="toplivo-price-shift toplivo-price-shift__up">+0.64%</sup>
+</td>
+        <td>59.76<sup class="toplivo-price-shift toplivo-price-shift__up">+9.56%</sup>
+</td>
+    </tr>
+    <tr>
+        <td>Газ</td>
+        <td>30.50</td>
+        <td>30.50</td>
+        <td>30.50</td>
+        <td>24.50<sup class="toplivo-price-shift toplivo-price-shift__up">+19.67%</sup>
+</td>
+    </tr>
+    <tr>
+        <td>AC (Переменный ток)<span class="hide-tablet"></span></td>
+        <td>16.00</td>
+        <td>16.00</td>
+        <td>16.00</td>
+        <td>16.00</td>
+    </tr>
+    <tr>
+        <td>DC (Постоянный ток)<span class="hide-tablet"></span></td>
+        <td>22.00</td>
+        <td>22.00</td>
+        <td>22.00</td>
+        <td>22.00</td>
+    </tr>
+    </tbody>
+</table>                    </div>
+                </div>
+            
+                <div class="section">
+                    <div class="history_graph_title">
+                        <h2>График цен на топливо</h2>
+                        <div class="sort-btns currency-sort echarts-sort">                
+                            <a href="#" class="btn btn-currency active" onclick="return changeEchartsCurrency(event)" data-currency-id="1">RUB</a>
+                            <a href="#" class="btn btn-currency" onclick="return changeEchartsCurrency(event)" data-currency-id="2">USD</a>
+                            <a href="#" class="btn btn-currency" onclick="return changeEchartsCurrency(event)" data-currency-id="3">EUR</a>
+                        </div>
+                    </div>
+                    <div class="chart" style="padding: 0 15px">                        
+                        <div id="chartdiv-fuel-new"></div>
+                    </div>
+                </div>
+                <div class="box-banner">
+                            
+<!-- Yandex.RTB R-A-1433762-20 728x90 вместо Adsense -->
+<div id="yandex_rtb_R-A-1433762-20"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1433762-20',
+    blockId: 'R-A-1433762-20'
+  })
+})</script>
+                </div>
+            
+                <div class="section section-calc">
+                    <div class="section-head">
+                        <h2>Калькулятор топлива</h2>
+                        <div class="sort-btns currency-sort fuel-sort">                
+                            <a href="#" class="btn btn-currency active" onclick="return changeFuelCalcCurrency(event)" data-currency-id="1">RUB</a>
+                            <a href="#" class="btn btn-currency" onclick="return changeFuelCalcCurrency(event)" data-currency-id="2">USD</a>
+                            <a href="#" class="btn btn-currency" onclick="return changeFuelCalcCurrency(event)" data-currency-id="3">EUR</a>
+                        </div>
+                    </div>
+                    <form class="standart toplivo-calc" id="calc" action="/">
+                        <div class="calc-input-group">
+                            <div class="toplivo-input">
+                                <span>Тип топлива</span>
+                                <label class="custom-select-bg my_modul-box">
+                                    <input type="text" id="id-marka" class="modul_input" name="id_marka" value="">
+                                    <div class="my_modul">
+                                        <span class="modul_my toplivo_my"> <span class="modul_title">АИ-92</span></span>
+                                        <div class="list pokolenie_list">
+                                            <div>
+                                                <div class="title"><input class="title_input" type="text" name="toplivo_filter" placeholder="Марка топлива"><span class="close_input reset_model"></span> 
+                                                </div>
+                                                <div class="my_modul-list">
+                                                    <div value="53.22" class="item-selected">АИ-92</div>
+                                                    <div value="57.00">АИ-95</div>
+                                                    <div value="67.03">АИ-98</div>
+                                                    <div value="66.08">ДТ</div>
+                                                    <div value="30.50">Газ</div>
+                                                    <div value="16.00">AC (Переменный ток)</div>
+                                                    <div value="22.00">DC (Постоянный ток)</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </label>
+                            </div>
+                            <div class="toplivo-input">
+                                <span><span class="consumpt-label">Расход топлива, л./100 км.</span></span>
+                                <input id="fuel_consumption" class="check-float empty" type="text" value="9.5" data-old-value="9.5" />
+                            </div>
+                        </div>
+                        <div class="toplivo-sliders-wrap">
+                            <div class="toplivo-slider">
+                                <div class="slider-title"><span>Пробег в день, км.</span></div>
+                                <div class="slider-value"><input type="text" value="30" class="slider-input" data-old-value="30"></div>
+                                <div class="slider-wrapper">
+                                    <div class="slider-range">
+                                        <input type="range" min="0" max="600" value="30" class="slider-range" id="dayRange" style="background: linear-gradient(to right, rgb(82, 162, 0) 5%, rgb(215, 215, 215) 5%);" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="toplivo-slider">
+                                <div class="slider-title"><span>Пробег в месяц, км.</span></div>
+                                <div class="slider-value"><input type="text" value="1 000" class="slider-input" data-old-value="1 000"></div>
+                                <div class="slider-wrapper">
+                                    <div class="slider-range">
+                                        <input type="range" min="0" max="5000" value="1000" class="slider-range" id="monthRange" style="background: linear-gradient(to right, rgb(82, 162, 0) 20%, rgb(215, 215, 215) 20%);" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="toplivo-slider">
+                                <div class="slider-title"><span>Пробег в год, км.</span></div>
+                                <div class="slider-value"><input type="text" value="15 000" class="slider-input" data-old-value="15 000"></div>
+                                <div class="slider-wrapper">
+                                    <div class="slider-range">
+                                        <input type="range" min="0" max="40000" value="15000" class="slider-range" id="yearRange" style="background: linear-gradient(to right, rgb(82, 162, 0) 37.5%, rgb(215, 215, 215) 37.5%);" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="toplivo-calc-totals">
+                            <span class="toplivo-calc-totals__title">Ваши расходы в <span class="toplivo-calc-totals__title-currency calc-currency">RUB</span> составят:</span>
+                            <div class="toplivo-calc-totals__group">
+                                <div class="toplivo-calc-totals__item">
+                                    <span id="totals-day-cost" class="totals-value">0</span> <span class="totals-period">в день</span>
+                                </div>
+                                <div class="toplivo-calc-totals__item">
+                                    <span id="totals-month-cost" class="totals-value">0</span> <span class="totals-period">в месяц</span>
+                                </div>
+                                <div class="toplivo-calc-totals__item">
+                                    <span id="totals-year-cost" class="totals-value">0</span> <span class="totals-period">в год</span>
+                                </div>
+                            </div>
+
+                            <span class="toplivo-calc-totals__title">или в <span id="plural-consumpt-unit">литрах</span>:</span>
+
+                            <div class="toplivo-calc-totals__group">
+                                <div class="toplivo-calc-totals__item">
+                                    <span id="totals-day-consumpt" class="totals-value">0</span> <span class="totals-period">в день</span>
+                                </div>
+                                <div class="toplivo-calc-totals__item">
+                                    <span id="totals-month-consumpt" class="totals-value">0</span> <span class="totals-period">в месяц</span>
+                                </div>
+                                <div class="toplivo-calc-totals__item">
+                                    <span id="totals-year-consumpt" class="totals-value">0</span> <span class="totals-period">в год</span>
+                                </div>
+                            </div>
+                            <div class="toplivo-calc-totals__group-cost">
+                                <div class="toplivo-calc-totals__item">
+                                    <span class="totals-label">Стоимость 1 <span id="single-consumpt-unit">литра</span>:</span> <span class="totals-cost"><span id="fuel-unit-cost" data-price-rub="53.22">53.22</span> <span class="calc-currency">RUB</span></span>
+                                </div>
+                                <div class="toplivo-calc-totals__item">
+                                    <span class="totals-label">Стоимость 1 километра:</span> <span class="totals-cost"><span id="distance-unit-cost">0</span> <span class="calc-currency">RUB</span></span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </form>
+                </div>
+                <div class="section">
+                    <div class="section-head">
+                        <h2>Статистические показатели</h2>
+                        <div class="sort-btns currency-sort fuel-sort">                
+                            <a href="#" class="btn btn-currency active" onclick="return changeFuelMinMaxCurrency(event)" data-currency-id="1">RUB</a>
+                            <a href="#" class="btn btn-currency" onclick="return changeFuelMinMaxCurrency(event)" data-currency-id="2">USD</a>
+                            <a href="#" class="btn btn-currency" onclick="return changeFuelMinMaxCurrency(event)" data-currency-id="3">EUR</a>
+                        </div>
+                    </div>
+                    <div class="fuel-minmax-tables">
+                                                <div>
+                            <span class="fuel-minmax__title">Исторический минимум</span>
+                            <table id="min-table" class="standart">
+                            <thead>
+                            <tr>
+                                <th>Вид топлива</th>
+                                <th>Дата</th>
+                                <th>Цена</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>АИ-92</td>
+                                <td>19 февраля 2018</td>
+                                <td>38.40</td>
+                            </tr>
+                            <tr>
+                                <td>АИ-95</td>
+                                <td>25 декабря 2017</td>
+                                <td>41.50</td>
+                            </tr>
+                            <tr>
+                                <td>АИ-98</td>
+                                <td>25 декабря 2017</td>
+                                <td>47.99</td>
+                            </tr>
+                            <tr>
+                                <td>ДТ</td>
+                                <td>25 декабря 2017</td>
+                                <td>39.80</td>
+                            </tr>
+                            <tr>
+                                <td>Газ</td>
+                                <td>6 августа 2018</td>
+                                <td>16.50</td>
+                            </tr>
+                            <tr>
+                                <td>AC (Переменный ток)</td>
+                                <td>11 июля 2022</td>
+                                <td>10.00</td>
+                            </tr>
+                            <tr>
+                                <td>DC (Постоянный ток)</td>
+                                <td>11 июля 2022</td>
+                                <td>16.00</td>
+                            </tr>
+                            </tbody>
+                            </table>
+                        </div>
+                                                <div> 
+                            <span class="fuel-minmax__title">Исторический максимум</span>
+                            <table id="max-table" class="standart">
+                            <thead>
+                            <tr>
+                                <th>Вид топлива</th>
+                                <th>Дата</th>
+                                <th>Цена</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>АИ-92</td>
+                                <td>5 августа 2024</td>
+                                <td>53.22</td>
+                            </tr>
+                            <tr>
+                                <td>АИ-95</td>
+                                <td>5 августа 2024</td>
+                                <td>57.00</td>
+                            </tr>
+                            <tr>
+                                <td>АИ-98</td>
+                                <td>29 июля 2024</td>
+                                <td>67.03</td>
+                            </tr>
+                            <tr>
+                                <td>ДТ</td>
+                                <td>5 августа 2024</td>
+                                <td>66.08</td>
+                            </tr>
+                            <tr>
+                                <td>Газ</td>
+                                <td>20 ноября 2023</td>
+                                <td>36.90</td>
+                            </tr>
+                            <tr>
+                                <td>AC (Переменный ток)</td>
+                                <td>29 мая 2023</td>
+                                <td>16.00</td>
+                            </tr>
+                            <tr>
+                                <td>DC (Постоянный ток)</td>
+                                <td>29 мая 2023</td>
+                                <td>22.00</td>
+                            </tr>
+                            </tbody>
+                            </table>                            
+                        </div>
+                    </div>
+                </div>
+                                <div class="section">
+                    <h2>Информеры</h2>
+                    <div class="inner">
+                        <p>Код для вставки на страницы вашего сайта. Разместите код в нужном месте между тегами &lt;body&gt;&lt;/body&gt;.</p>
+                        <form action="/">
+                            <ul class="informers-list">
+                                                                <li>
+                                    <div class="preview">
+                                        <img src="/img/informer17.gif" alt=""/>
+                                    </div>
+                                    <div class="code">
+                                        <textarea name="" class="code-enter" id="" cols="30" rows="4"><!-- Driff.ru --><a target="_blank" title="Информер цен на топливо" href="https://driff.ru/fuel-dynamics/"><img alt="Информер цен на топливо" src="https://driff.ru/img/informer17.gif"/></a><!-- / Driff.ru --></textarea>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="preview">
+                                        <img src="/img/informer16.gif" alt=""/>
+                                    </div>
+                                    <div class="code">
+                                        <textarea name="" class="code-enter" id="" cols="30" rows="4"><!-- Driff.ru --><a target="_blank" title="Информер цен на топливо" href="https://driff.ru/fuel-dynamics/"><img alt="Информер цен на топливо" src="https://driff.ru/img/informer16.gif"/></a><!-- / Driff.ru --></textarea>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="preview">
+                                        <img src="/img/informer15.gif" alt=""/>
+                                    </div>
+                                    <div class="code">
+                                        <textarea name="" class="code-enter" id="" cols="30" rows="4"><!-- Driff.ru --><a target="_blank" title="Информер цен на топливо" href="https://driff.ru/fuel-dynamics/"><img alt="Информер цен на топливо" src="https://driff.ru/img/informer15.gif"/></a><!-- / Driff.ru --></textarea>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="preview">
+                                        <img src="/img/informer14.gif" alt=""/>
+                                    </div>
+                                    <div class="code">
+                                        <textarea name="" class="code-enter" id="" cols="30" rows="4"><!-- Driff.ru --><a target="_blank" title="Информер цен на топливо" href="https://driff.ru/fuel-dynamics/"><img alt="Информер цен на топливо" src="https://driff.ru/img/informer14.gif"/></a><!-- / Driff.ru --></textarea>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="preview">
+                                        <img src="/img/informer12.gif" alt=""/>
+                                    </div>
+                                    <div class="code">
+                                        <textarea name="" class="code-enter" id="" cols="30" rows="4"><!-- Driff.ru --><a target="_blank" title="Информер цен на топливо" href="https://driff.ru/fuel-dynamics/"><img alt="Информер цен на топливо" src="https://driff.ru/img/informer12.gif"/></a><!-- / Driff.ru --></textarea>
+                                    </div>
+                                </li>
+                                                            </ul>
+                        </form>
+                    </div>
+                </div>
+                                <div class="seos seos-fuel">
+                    <p>Средняя стоимость топлива на сегодня 20 августа 2024 года в России составляет:</p>
+<ul class="fuel-avg-prices-list">
+      <li><strong>АИ-92</strong> — 53.22 RUB, что в пересчёте в доллары 0.59 USD, в евро 0.54 EUR</li>
+      <li><strong>АИ-95</strong> — 57.00 RUB, что в пересчёте в доллары 0.64 USD, в евро 0.58 EUR</li>
+      <li><strong>АИ-98</strong> — 67.03 RUB, что в пересчёте в доллары 0.75 USD, в евро 0.68 EUR</li>
+      <li><strong>ДТ</strong> — 66.08 RUB, что в пересчёте в доллары 0.74 USD, в евро 0.67 EUR</li>
+      <li><strong>Газ</strong> — 30.50 RUB, что в пересчёте в доллары 0.34 USD, в евро 0.31 EUR</li>
+      <li><strong>AC (Переменный ток)</strong> — 16.00 RUB, что в пересчёте в доллары 0.18 USD, в евро 0.16 EUR</li>
+      <li><strong>DC (Постоянный ток)</strong> — 22.00 RUB, что в пересчёте в доллары 0.25 USD, в евро 0.22 EUR</li>
+</ul>
+<p>Цены соответствуют усреднённым данным о повышении тарифов на топливо следующих сетей:</p>
+<ul class="fuel-avg-prices-list">
+      <li>Лукойл</li>
+      <li>Газпромнефть</li>
+      <li>Роснефть</li>
+      <li>Sell</li>
+      <li>Eka</li>
+      <li>Роснефть</li>
+      <li>Татнефть</li>
+</ul>
+<p>Воспользуйтесь удобным калькулятором топлива и посчитайте ваши расходы при поездке в путешествие по России. Калькулятор топлива показывает подробные расходы за день, месяц и год в литрах и деньгах.</p>            
+                </div>
+            
+                <div class="box-banner">  
+                            
+<!-- Yandex.RTB R-A-1433762-17 -->
+<div id="yandex_rtb_R-A-1433762-17"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1433762-17',
+    blockId: 'R-A-1433762-17'
+  })
+})</script>
+                </div>
+            </div><!--end content-->
+            <aside class="side-bar autoheight">
+                <div class="banner-aside">
+                    <span class="size-empty-box">
+                  
+<!-- Yandex.RTB R-A-1433762-21 300x600 вместо Adsense -->
+<div id="yandex_rtb_R-A-1433762-21"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1433762-21',
+    blockId: 'R-A-1433762-21'
+  })
+})</script>
+                    </span>
+                </div>
+            </aside><!--end SIDEBAR-->
+        </div>
+    </div><!--end WRAPPER-->
+
+    <div id="fuel_region_popup" style="display: none;">
+        <div class="region_list">        
+            <ul><li>А</li><li><a href="/fuel-dynamics/abakan/">Абакан</a></li><li><a href="/fuel-dynamics/azov/">Азов</a></li><li><a href="/fuel-dynamics/aleksandrov/">Александров</a></li><li><a href="/fuel-dynamics/aleksin/">Алексин</a></li><li><a href="/fuel-dynamics/almetevsk/">Альметьевск</a></li><li><a href="/fuel-dynamics/anapa/">Анапа</a></li><li><a href="/fuel-dynamics/angarsk/">Ангарск</a></li><li><a href="/fuel-dynamics/anzhero-sudzhensk/">Анжеро-Судженск</a></li><li><a href="/fuel-dynamics/apatity/">Апатиты</a></li><li><a href="/fuel-dynamics/arzamas/">Арзамас</a></li><li><a href="/fuel-dynamics/armavir/">Армавир</a></li><li><a href="/fuel-dynamics/arsenev/">Арсеньев</a></li><li><a href="/fuel-dynamics/artem/">Артём</a></li><li><a href="/fuel-dynamics/arhangelsk/">Архангельск</a></li><li><a href="/fuel-dynamics/asbest/">Асбест</a></li><li><a href="/fuel-dynamics/astrahan/">Астрахань</a></li><li><a href="/fuel-dynamics/achinsk/">Ачинск</a></li></ul><ul><li>Б</li><li><a href="/fuel-dynamics/balakovo/">Балаково</a></li><li><a href="/fuel-dynamics/balashiha/">Балашиха</a></li><li><a href="/fuel-dynamics/balashov/">Балашов</a></li><li><a href="/fuel-dynamics/barnaul/">Барнаул</a></li><li><a href="/fuel-dynamics/bataysk/">Батайск</a></li><li><a href="/fuel-dynamics/belgorod/">Белгород</a></li><li><a href="/fuel-dynamics/belebey/">Белебей</a></li><li><a href="/fuel-dynamics/belovo/">Белово</a></li><li><a href="/fuel-dynamics/belogorsk/">Белогорск</a></li><li><a href="/fuel-dynamics/beloreck/">Белорецк</a></li><li><a href="/fuel-dynamics/belorechensk/">Белореченск</a></li><li><a href="/fuel-dynamics/berdsk/">Бердск</a></li><li><a href="/fuel-dynamics/berezniki/">Березники</a></li><li><a href="/fuel-dynamics/berezovskiy/">Берёзовский</a></li><li><a href="/fuel-dynamics/biysk/">Бийск</a></li><li><a href="/fuel-dynamics/birobidzhan/">Биробиджан</a></li><li><a href="/fuel-dynamics/blagoveschensk/">Благовещенск</a></li><li><a href="/fuel-dynamics/bor/">Бор</a></li><li><a href="/fuel-dynamics/borisoglebsk/">Борисоглебск</a></li><li><a href="/fuel-dynamics/bratsk/">Братск</a></li><li><a href="/fuel-dynamics/bryansk/">Брянск</a></li><li><a href="/fuel-dynamics/bugulma/">Бугульма</a></li><li><a href="/fuel-dynamics/budennovsk/">Будённовск</a></li><li><a href="/fuel-dynamics/buzuluk/">Бузулук</a></li><li><a href="/fuel-dynamics/buynaksk/">Буйнакск</a></li></ul><ul><li>В</li><li><a href="/fuel-dynamics/velikie-luki/">Великие Луки</a></li><li><a href="/fuel-dynamics/velikiy-novgorod/">Великий Новгород</a></li><li><a href="/fuel-dynamics/verhnyaya-pyshma/">Верхняя Пышма</a></li><li><a href="/fuel-dynamics/vidnoe/">Видное</a></li><li><a href="/fuel-dynamics/vladivostok/">Владивосток</a></li><li><a href="/fuel-dynamics/vladikavkaz/">Владикавказ</a></li><li><a href="/fuel-dynamics/vladimir/">Владимир</a></li><li><a href="/fuel-dynamics/volgograd/">Волгоград</a></li><li><a href="/fuel-dynamics/volgodonsk/">Волгодонск</a></li><li><a href="/fuel-dynamics/volzhsk/">Волжск</a></li><li><a href="/fuel-dynamics/volzhskiy/">Волжский</a></li><li><a href="/fuel-dynamics/vologda/">Вологда</a></li><li><a href="/fuel-dynamics/volsk/">Вольск</a></li><li><a href="/fuel-dynamics/vorkuta/">Воркута</a></li><li><a href="/fuel-dynamics/voronezh/">Воронеж</a></li><li><a href="/fuel-dynamics/voskresensk/">Воскресенск</a></li><li><a href="/fuel-dynamics/votkinsk/">Воткинск</a></li><li><a href="/fuel-dynamics/vsevolozhsk/">Всеволожск</a></li><li><a href="/fuel-dynamics/vyborg/">Выборг</a></li><li><a href="/fuel-dynamics/vyksa/">Выкса</a></li><li><a href="/fuel-dynamics/vyazma/">Вязьма</a></li></ul><ul><li>Г</li><li><a href="/fuel-dynamics/gatchina/">Гатчина</a></li><li><a href="/fuel-dynamics/gelendzhik/">Геленджик</a></li><li><a href="/fuel-dynamics/georgievsk/">Георгиевск</a></li><li><a href="/fuel-dynamics/glazov/">Глазов</a></li><li><a href="/fuel-dynamics/gorno-altaysk/">Горно-Алтайск</a></li><li><a href="/fuel-dynamics/groznyy/">Грозный</a></li><li><a href="/fuel-dynamics/gubkin/">Губкин</a></li><li><a href="/fuel-dynamics/gudermes/">Гудермес</a></li><li><a href="/fuel-dynamics/gukovo/">Гуково</a></li><li><a href="/fuel-dynamics/gus-hrustalnyy/">Гусь-Хрустальный</a></li></ul><ul><li>Д</li><li><a href="/fuel-dynamics/derbent/">Дербент</a></li><li><a href="/fuel-dynamics/dzerzhinsk/">Дзержинск</a></li><li><a href="/fuel-dynamics/dzerzhinskiy/">Дзержинский</a></li><li><a href="/fuel-dynamics/dimitrovgrad/">Димитровград</a></li><li><a href="/fuel-dynamics/dmitrov/">Дмитров</a></li><li><a href="/fuel-dynamics/dolgoprudnyy/">Долгопрудный</a></li><li><a href="/fuel-dynamics/domodedovo/">Домодедово</a></li><li><a href="/fuel-dynamics/donskoy/">Донской</a></li><li><a href="/fuel-dynamics/dubna/">Дубна</a></li></ul><ul><li>Е</li><li><a href="/fuel-dynamics/evpatoriya/">Евпатория</a></li><li><a href="/fuel-dynamics/egorevsk/">Егорьевск</a></li><li><a href="/fuel-dynamics/eysk/">Ейск</a></li><li><a href="/fuel-dynamics/ekaterinburg/">Екатеринбург</a></li><li><a href="/fuel-dynamics/elabuga/">Елабуга</a></li><li><a href="/fuel-dynamics/elec/">Елец</a></li><li><a href="/fuel-dynamics/essentuki/">Ессентуки</a></li></ul><ul><li>Ж</li><li><a href="/fuel-dynamics/zheleznogorsk/">Железногорск</a></li><li><a href="/fuel-dynamics/zheleznogorsk-krasnoyarskiy-kray/">Железногорск (Красноярский край)</a></li><li><a href="/fuel-dynamics/zhigulevsk/">Жигулёвск</a></li><li><a href="/fuel-dynamics/zhukovskiy/">Жуковский</a></li></ul><ul><li>З</li><li><a href="/fuel-dynamics/zarechnyy/">Заречный</a></li><li><a href="/fuel-dynamics/zelenogorsk/">Зеленогорск</a></li><li><a href="/fuel-dynamics/zelenodolsk/">Зеленодольск</a></li><li><a href="/fuel-dynamics/zlatoust/">Златоуст</a></li></ul><ul><li>И</li><li><a href="/fuel-dynamics/ivanovo/">Иваново</a></li><li><a href="/fuel-dynamics/ivanteevka/">Ивантеевка</a></li><li><a href="/fuel-dynamics/izhevsk/">Ижевск</a></li><li><a href="/fuel-dynamics/izberbash/">Избербаш</a></li><li><a href="/fuel-dynamics/irkutsk/">Иркутск</a></li><li><a href="/fuel-dynamics/iskitim/">Искитим</a></li><li><a href="/fuel-dynamics/ishim/">Ишим</a></li><li><a href="/fuel-dynamics/ishimbay/">Ишимбай</a></li></ul><ul><li>Й</li><li><a href="/fuel-dynamics/yoshkar-ola/">Йошкар-Ола</a></li></ul><ul><li>К</li><li><a href="/fuel-dynamics/kazan/">Казань</a></li><li><a href="/fuel-dynamics/kaliningrad/">Калининград</a></li><li><a href="/fuel-dynamics/kaluga/">Калуга</a></li><li><a href="/fuel-dynamics/kamensk-uralskiy/">Каменск-Уральский</a></li><li><a href="/fuel-dynamics/kamensk-shahtinskiy/">Каменск-Шахтинский</a></li><li><a href="/fuel-dynamics/kamyshin/">Камышин</a></li><li><a href="/fuel-dynamics/kansk/">Канск</a></li><li><a href="/fuel-dynamics/kaspiysk/">Каспийск</a></li><li><a href="/fuel-dynamics/kemerovo/">Кемерово</a></li><li><a href="/fuel-dynamics/kerch/">Керчь</a></li><li><a href="/fuel-dynamics/kineshma/">Кинешма</a></li><li><a href="/fuel-dynamics/kirishi/">Кириши</a></li><li><a href="/fuel-dynamics/kirov/">Киров</a></li><li><a href="/fuel-dynamics/kirovo-chepeck/">Кирово-Чепецк</a></li><li><a href="/fuel-dynamics/kiselevsk/">Киселёвск</a></li><li><a href="/fuel-dynamics/kislovodsk/">Кисловодск</a></li><li><a href="/fuel-dynamics/klin/">Клин</a></li><li><a href="/fuel-dynamics/klincy/">Клинцы</a></li><li><a href="/fuel-dynamics/kovrov/">Ковров</a></li><li><a href="/fuel-dynamics/kogalym/">Когалым</a></li><li><a href="/fuel-dynamics/kolomna/">Коломна</a></li><li><a href="/fuel-dynamics/kolpino/">Колпино</a></li><li><a href="/fuel-dynamics/komsomolsk-na-amure/">Комсомольск-на-Амуре</a></li><li><a href="/fuel-dynamics/kopeysk/">Копейск</a></li><li><a href="/fuel-dynamics/korolev/">Королёв</a></li><li><a href="/fuel-dynamics/kostroma/">Кострома</a></li><li><a href="/fuel-dynamics/kotelniki/">Котельники</a></li><li><a href="/fuel-dynamics/kotlas/">Котлас</a></li><li><a href="/fuel-dynamics/krasnogorsk/">Красногорск</a></li><li><a href="/fuel-dynamics/krasnodar/">Краснодар</a></li><li><a href="/fuel-dynamics/krasnokamsk/">Краснокамск</a></li><li><a href="/fuel-dynamics/krasnoturinsk/">Краснотурьинск</a></li><li><a href="/fuel-dynamics/krasnoyarsk/">Красноярск</a></li><li><a href="/fuel-dynamics/kropotkin/">Кропоткин</a></li><li><a href="/fuel-dynamics/krymsk/">Крымск</a></li><li><a href="/fuel-dynamics/kstovo/">Кстово</a></li><li><a href="/fuel-dynamics/kuzneck/">Кузнецк</a></li><li><a href="/fuel-dynamics/kumertau/">Кумертау</a></li><li><a href="/fuel-dynamics/kungur/">Кунгур</a></li><li><a href="/fuel-dynamics/kurgan/">Курган</a></li><li><a href="/fuel-dynamics/kursk/">Курск</a></li><li><a href="/fuel-dynamics/kyzyl/">Кызыл</a></li></ul><ul><li>Л</li><li><a href="/fuel-dynamics/labinsk/">Лабинск</a></li><li><a href="/fuel-dynamics/leninogorsk/">Лениногорск</a></li><li><a href="/fuel-dynamics/leninsk-kuzneckiy/">Ленинск-Кузнецкий</a></li><li><a href="/fuel-dynamics/lesosibirsk/">Лесосибирск</a></li><li><a href="/fuel-dynamics/lipeck/">Липецк</a></li><li><a href="/fuel-dynamics/liski/">Лиски</a></li><li><a href="/fuel-dynamics/lobnya/">Лобня</a></li><li><a href="/fuel-dynamics/lysva/">Лысьва</a></li><li><a href="/fuel-dynamics/lytkarino/">Лыткарино</a></li><li><a href="/fuel-dynamics/lyubercy/">Люберцы</a></li></ul><ul><li>М</li><li><a href="/fuel-dynamics/magadan/">Магадан</a></li><li><a href="/fuel-dynamics/magnitogorsk/">Магнитогорск</a></li><li><a href="/fuel-dynamics/maykop/">Майкоп</a></li><li><a href="/fuel-dynamics/mahachkala/">Махачкала</a></li><li><a href="/fuel-dynamics/mezhdurechensk/">Междуреченск</a></li><li><a href="/fuel-dynamics/meleuz/">Мелеуз</a></li><li><a href="/fuel-dynamics/miass/">Миасс</a></li><li><a href="/fuel-dynamics/mineralnye-vody/">Минеральные Воды</a></li><li><a href="/fuel-dynamics/minusinsk/">Минусинск</a></li><li><a href="/fuel-dynamics/mihaylovka/">Михайловка</a></li><li><a href="/fuel-dynamics/mihaylovsk/">Михайловск</a></li><li><a href="/fuel-dynamics/michurinsk/">Мичуринск</a></li><li><a href="/fuel-dynamics/moskva/">Москва</a></li><li><a href="/fuel-dynamics/murmansk/">Мурманск</a></li><li><a href="/fuel-dynamics/murom/">Муром</a></li><li><a href="/fuel-dynamics/mytischi/">Мытищи</a></li></ul><ul><li>Н</li><li><a href="/fuel-dynamics/naberezhnye-chelny/">Набережные Челны</a></li><li><a href="/fuel-dynamics/nazran/">Назрань</a></li><li><a href="/fuel-dynamics/nalchik/">Нальчик</a></li><li><a href="/fuel-dynamics/naro-fominsk/">Наро-Фоминск</a></li><li><a href="/fuel-dynamics/naryan-mar/">Нарьян-Мар</a></li><li><a href="/fuel-dynamics/nahodka/">Находка</a></li><li><a href="/fuel-dynamics/nevinnomyssk/">Невинномысск</a></li><li><a href="/fuel-dynamics/neryungri/">Нерюнгри</a></li><li><a href="/fuel-dynamics/neftekamsk/">Нефтекамск</a></li><li><a href="/fuel-dynamics/nefteyugansk/">Нефтеюганск</a></li><li><a href="/fuel-dynamics/nizhnevartovsk/">Нижневартовск</a></li><li><a href="/fuel-dynamics/nizhnekamsk/">Нижнекамск</a></li><li><a href="/fuel-dynamics/nizhniy-novgorod/">Нижний Новгород</a></li><li><a href="/fuel-dynamics/nizhniy-tagil/">Нижний Тагил</a></li><li><a href="/fuel-dynamics/novoaltaysk/">Новоалтайск</a></li><li><a href="/fuel-dynamics/novokuzneck/">Новокузнецк</a></li><li><a href="/fuel-dynamics/novokuybyshevsk/">Новокуйбышевск</a></li><li><a href="/fuel-dynamics/novomoskovsk/">Новомосковск</a></li><li><a href="/fuel-dynamics/novorossiysk/">Новороссийск</a></li><li><a href="/fuel-dynamics/novosibirsk/">Новосибирск</a></li><li><a href="/fuel-dynamics/novotroick/">Новотроицк</a></li><li><a href="/fuel-dynamics/novouralsk/">Новоуральск</a></li><li><a href="/fuel-dynamics/novocheboksarsk/">Новочебоксарск</a></li><li><a href="/fuel-dynamics/novocherkassk/">Новочеркасск</a></li><li><a href="/fuel-dynamics/novoshahtinsk/">Новошахтинск</a></li><li><a href="/fuel-dynamics/novyy-urengoy/">Новый Уренгой</a></li><li><a href="/fuel-dynamics/noginsk/">Ногинск</a></li><li><a href="/fuel-dynamics/norilsk/">Норильск</a></li><li><a href="/fuel-dynamics/noyabrsk/">Ноябрьск</a></li><li><a href="/fuel-dynamics/nyagan/">Нягань</a></li></ul><ul><li>О</li><li><a href="/fuel-dynamics/obninsk/">Обнинск</a></li><li><a href="/fuel-dynamics/odincovo/">Одинцово</a></li><li><a href="/fuel-dynamics/ozersk/">Озёрск</a></li><li><a href="/fuel-dynamics/oktyabrskiy/">Октябрьский</a></li><li><a href="/fuel-dynamics/omsk/">Омск</a></li><li><a href="/fuel-dynamics/orel/">Орёл</a></li><li><a href="/fuel-dynamics/orenburg/">Оренбург</a></li><li><a href="/fuel-dynamics/orehovo-zuevo/">Орехово-Зуево</a></li><li><a href="/fuel-dynamics/orsk/">Орск</a></li></ul><ul><li>П</li><li><a href="/fuel-dynamics/pavlovo/">Павлово</a></li><li><a href="/fuel-dynamics/pavlovskiy-posad/">Павловский Посад</a></li><li><a href="/fuel-dynamics/penza/">Пенза</a></li><li><a href="/fuel-dynamics/pervouralsk/">Первоуральск</a></li><li><a href="/fuel-dynamics/perm/">Пермь</a></li><li><a href="/fuel-dynamics/petrozavodsk/">Петрозаводск</a></li><li><a href="/fuel-dynamics/petropavlovsk-kamchatskiy/">Петропавловск-Камчатский</a></li><li><a href="/fuel-dynamics/podolsk/">Подольск</a></li><li><a href="/fuel-dynamics/polevskoy/">Полевской</a></li><li><a href="/fuel-dynamics/prokopevsk/">Прокопьевск</a></li><li><a href="/fuel-dynamics/prohladnyy/">Прохладный</a></li><li><a href="/fuel-dynamics/pskov/">Псков</a></li><li><a href="/fuel-dynamics/pushkin/">Пушкин</a></li><li><a href="/fuel-dynamics/pushkino/">Пушкино</a></li><li><a href="/fuel-dynamics/pyatigorsk/">Пятигорск</a></li></ul><ul><li>Р</li><li><a href="/fuel-dynamics/ramenskoe/">Раменское</a></li><li><a href="/fuel-dynamics/revda/">Ревда</a></li><li><a href="/fuel-dynamics/reutov/">Реутов</a></li><li><a href="/fuel-dynamics/rzhev/">Ржев</a></li><li><a href="/fuel-dynamics/rossosh/">Россошь</a></li><li><a href="/fuel-dynamics/rostov-na-donu/">Ростов-на-Дону</a></li><li><a href="/fuel-dynamics/rubcovsk/">Рубцовск</a></li><li><a href="/fuel-dynamics/rybinsk/">Рыбинск</a></li><li><a href="/fuel-dynamics/ryazan/">Рязань</a></li></ul><ul><li>С</li><li><a href="/fuel-dynamics/salavat/">Салават</a></li><li><a href="/fuel-dynamics/salehard/">Салехард</a></li><li><a href="/fuel-dynamics/salsk/">Сальск</a></li><li><a href="/fuel-dynamics/samara/">Самара</a></li><li><a href="/fuel-dynamics/sankt-peterburg/">Санкт-Петербург</a></li><li><a href="/fuel-dynamics/saransk/">Саранск</a></li><li><a href="/fuel-dynamics/sarapul/">Сарапул</a></li><li><a href="/fuel-dynamics/saratov/">Саратов</a></li><li><a href="/fuel-dynamics/sarov/">Саров</a></li><li><a href="/fuel-dynamics/svobodnyy/">Свободный</a></li><li><a href="/fuel-dynamics/sevastopol/">Севастополь</a></li><li><a href="/fuel-dynamics/severodvinsk/">Северодвинск</a></li><li><a href="/fuel-dynamics/severomorsk/">Североморск</a></li><li><a href="/fuel-dynamics/seversk/">Северск</a></li><li><a href="/fuel-dynamics/sergiev-posad/">Сергиев Посад</a></li><li><a href="/fuel-dynamics/serov/">Серов</a></li><li><a href="/fuel-dynamics/serpuhov/">Серпухов</a></li><li><a href="/fuel-dynamics/sertolovo/">Сертолово</a></li><li><a href="/fuel-dynamics/sibay/">Сибай</a></li><li><a href="/fuel-dynamics/simferopol/">Симферополь</a></li><li><a href="/fuel-dynamics/slavyansk-na-kubani/">Славянск-на-Кубани</a></li><li><a href="/fuel-dynamics/smolensk/">Смоленск</a></li><li><a href="/fuel-dynamics/snezhinsk/">Снежинск</a></li><li><a href="/fuel-dynamics/solikamsk/">Соликамск</a></li><li><a href="/fuel-dynamics/sosnovyy-bor/">Сосновый Бор</a></li><li><a href="/fuel-dynamics/sochi/">Сочи</a></li><li><a href="/fuel-dynamics/stavropol/">Ставрополь</a></li><li><a href="/fuel-dynamics/staryy-oskol/">Старый Оскол</a></li><li><a href="/fuel-dynamics/sterlitamak/">Стерлитамак</a></li><li><a href="/fuel-dynamics/stupino/">Ступино</a></li><li><a href="/fuel-dynamics/sunzha/">Сунжа</a></li><li><a href="/fuel-dynamics/surgut/">Сургут</a></li><li><a href="/fuel-dynamics/syzran/">Сызрань</a></li><li><a href="/fuel-dynamics/syktyvkar/">Сыктывкар</a></li></ul><ul><li>Т</li><li><a href="/fuel-dynamics/taganrog/">Таганрог</a></li><li><a href="/fuel-dynamics/tambov/">Тамбов</a></li><li><a href="/fuel-dynamics/tver/">Тверь</a></li><li><a href="/fuel-dynamics/timashevsk/">Тимашёвск</a></li><li><a href="/fuel-dynamics/tihvin/">Тихвин</a></li><li><a href="/fuel-dynamics/tihoreck/">Тихорецк</a></li><li><a href="/fuel-dynamics/tobolsk/">Тобольск</a></li><li><a href="/fuel-dynamics/tolyatti/">Тольятти</a></li><li><a href="/fuel-dynamics/tomsk/">Томск</a></li><li><a href="/fuel-dynamics/troick/">Троицк</a></li><li><a href="/fuel-dynamics/tuapse/">Туапсе</a></li><li><a href="/fuel-dynamics/tuymazy/">Туймазы</a></li><li><a href="/fuel-dynamics/tula/">Тула</a></li><li><a href="/fuel-dynamics/tyumen/">Тюмень</a></li></ul><ul><li>У</li><li><a href="/fuel-dynamics/ulan-ude/">Улан-Удэ</a></li><li><a href="/fuel-dynamics/ulyanovsk/">Ульяновск</a></li><li><a href="/fuel-dynamics/urus-martan/">Урус-Мартан</a></li><li><a href="/fuel-dynamics/usole-sibirskoe/">Усолье-Сибирское</a></li><li><a href="/fuel-dynamics/ussuriysk/">Уссурийск</a></li><li><a href="/fuel-dynamics/ust-ilimsk/">Усть-Илимск</a></li><li><a href="/fuel-dynamics/ufa/">Уфа</a></li><li><a href="/fuel-dynamics/uhta/">Ухта</a></li></ul><ul><li>Ф</li><li><a href="/fuel-dynamics/feodosiya/">Феодосия</a></li><li><a href="/fuel-dynamics/fryazino/">Фрязино</a></li></ul><ul><li>Х</li><li><a href="/fuel-dynamics/habarovsk/">Хабаровск</a></li><li><a href="/fuel-dynamics/hanty-mansiysk/">Ханты-Мансийск</a></li><li><a href="/fuel-dynamics/hasavyurt/">Хасавюрт</a></li><li><a href="/fuel-dynamics/himki/">Химки</a></li></ul><ul><li>Ч</li><li><a href="/fuel-dynamics/chaykovskiy/">Чайковский</a></li><li><a href="/fuel-dynamics/chapaevsk/">Чапаевск</a></li><li><a href="/fuel-dynamics/cheboksary/">Чебоксары</a></li><li><a href="/fuel-dynamics/chelyabinsk/">Челябинск</a></li><li><a href="/fuel-dynamics/cherepovec/">Череповец</a></li><li><a href="/fuel-dynamics/cherkessk/">Черкесск</a></li><li><a href="/fuel-dynamics/chernogorsk/">Черногорск</a></li><li><a href="/fuel-dynamics/chehov/">Чехов</a></li><li><a href="/fuel-dynamics/chistopol/">Чистополь</a></li><li><a href="/fuel-dynamics/chita/">Чита</a></li></ul><ul><li>Ш</li><li><a href="/fuel-dynamics/shadrinsk/">Шадринск</a></li><li><a href="/fuel-dynamics/shali/">Шали</a></li><li><a href="/fuel-dynamics/shahty/">Шахты</a></li><li><a href="/fuel-dynamics/shuya/">Шуя</a></li></ul><ul><li>Щ</li><li><a href="/fuel-dynamics/schekino/">Щёкино</a></li><li><a href="/fuel-dynamics/schelkovo/">Щёлково</a></li></ul><ul><li>Э</li><li><a href="/fuel-dynamics/elektrostal/">Электросталь</a></li><li><a href="/fuel-dynamics/elista/">Элиста</a></li><li><a href="/fuel-dynamics/engels/">Энгельс</a></li></ul><ul><li>Ю</li><li><a href="/fuel-dynamics/yuzhno-sahalinsk/">Южно-Сахалинск</a></li><li><a href="/fuel-dynamics/yurga/">Юрга</a></li></ul><ul><li>Я</li><li><a href="/fuel-dynamics/yakutsk/">Якутск</a></li><li><a href="/fuel-dynamics/yalta/">Ялта</a></li><li><a href="/fuel-dynamics/yaroslavl/">Ярославль</a></li></ul>
+        </div>
+    </div>
+
+
+<div id="region_popup" style="display: none;">
+    <div class="region_list">        
+        <ul><li>А</li><li><a href="/abakan/">Абакан</a></li><li><a href="/azov/">Азов</a></li><li><a href="/aleksandrov/">Александров</a></li><li><a href="/aleksin/">Алексин</a></li><li><a href="/almetevsk/">Альметьевск</a></li><li><a href="/anadyr/">Анадырь</a></li><li><a href="/anapa/">Анапа</a></li><li><a href="/angarsk/">Ангарск</a></li><li><a href="/anzhero-sudzhensk/">Анжеро-Судженск</a></li><li><a href="/apatity/">Апатиты</a></li><li><a href="/arzamas/">Арзамас</a></li><li><a href="/armavir/">Армавир</a></li><li><a href="/arsenev/">Арсеньев</a></li><li><a href="/artem/">Артём</a></li><li><a href="/arhangelsk/">Архангельск</a></li><li><a href="/asbest/">Асбест</a></li><li><a href="/astrahan/">Астрахань</a></li><li><a href="/achinsk/">Ачинск</a></li></ul><ul><li>Б</li><li><a href="/balakovo/">Балаково</a></li><li><a href="/balashiha/">Балашиха</a></li><li><a href="/balashov/">Балашов</a></li><li><a href="/barnaul/">Барнаул</a></li><li><a href="/bataysk/">Батайск</a></li><li><a href="/belgorod/">Белгород</a></li><li><a href="/belebey/">Белебей</a></li><li><a href="/belovo/">Белово</a></li><li><a href="/belogorsk/">Белогорск</a></li><li><a href="/beloreck/">Белорецк</a></li><li><a href="/belorechensk/">Белореченск</a></li><li><a href="/berdsk/">Бердск</a></li><li><a href="/berezniki/">Березники</a></li><li><a href="/berezovskiy/">Берёзовский</a></li><li><a href="/biysk/">Бийск</a></li><li><a href="/birobidzhan/">Биробиджан</a></li><li><a href="/blagoveschensk/">Благовещенск</a></li><li><a href="/bor/">Бор</a></li><li><a href="/borisoglebsk/">Борисоглебск</a></li><li><a href="/bratsk/">Братск</a></li><li><a href="/bryansk/">Брянск</a></li><li><a href="/bugulma/">Бугульма</a></li><li><a href="/budennovsk/">Будённовск</a></li><li><a href="/buzuluk/">Бузулук</a></li><li><a href="/buynaksk/">Буйнакск</a></li></ul><ul><li>В</li><li><a href="/velikie-luki/">Великие Луки</a></li><li><a href="/velikiy-novgorod/">Великий Новгород</a></li><li><a href="/verhnyaya-pyshma/">Верхняя Пышма</a></li><li><a href="/vidnoe/">Видное</a></li><li><a href="/vladivostok/">Владивосток</a></li><li><a href="/vladikavkaz/">Владикавказ</a></li><li><a href="/vladimir/">Владимир</a></li><li><a href="/volgograd/">Волгоград</a></li><li><a href="/volgodonsk/">Волгодонск</a></li><li><a href="/volzhsk/">Волжск</a></li><li><a href="/volzhskiy/">Волжский</a></li><li><a href="/vologda/">Вологда</a></li><li><a href="/volsk/">Вольск</a></li><li><a href="/vorkuta/">Воркута</a></li><li><a href="/voronezh/">Воронеж</a></li><li><a href="/voskresensk/">Воскресенск</a></li><li><a href="/votkinsk/">Воткинск</a></li><li><a href="/vsevolozhsk/">Всеволожск</a></li><li><a href="/vyborg/">Выборг</a></li><li><a href="/vyksa/">Выкса</a></li><li><a href="/vyazma/">Вязьма</a></li></ul><ul><li>Г</li><li><a href="/gatchina/">Гатчина</a></li><li><a href="/gelendzhik/">Геленджик</a></li><li><a href="/georgievsk/">Георгиевск</a></li><li><a href="/glazov/">Глазов</a></li><li><a href="/gorno-altaysk/">Горно-Алтайск</a></li><li><a href="/groznyy/">Грозный</a></li><li><a href="/gubkin/">Губкин</a></li><li><a href="/gudermes/">Гудермес</a></li><li><a href="/gukovo/">Гуково</a></li><li><a href="/gus-hrustalnyy/">Гусь-Хрустальный</a></li></ul><ul><li>Д</li><li><a href="/derbent/">Дербент</a></li><li><a href="/dzerzhinsk/">Дзержинск</a></li><li><a href="/dzerzhinskiy/">Дзержинский</a></li><li><a href="/dimitrovgrad/">Димитровград</a></li><li><a href="/dmitrov/">Дмитров</a></li><li><a href="/dolgoprudnyy/">Долгопрудный</a></li><li><a href="/domodedovo/">Домодедово</a></li><li><a href="/donskoy/">Донской</a></li><li><a href="/dubna/">Дубна</a></li></ul><ul><li>Е</li><li><a href="/evpatoriya/">Евпатория</a></li><li><a href="/egorevsk/">Егорьевск</a></li><li><a href="/eysk/">Ейск</a></li><li><a href="/ekaterinburg/">Екатеринбург</a></li><li><a href="/elabuga/">Елабуга</a></li><li><a href="/elec/">Елец</a></li><li><a href="/essentuki/">Ессентуки</a></li></ul><ul><li>Ж</li><li><a href="/zheleznogorsk/">Железногорск</a></li><li><a href="/zheleznogorsk-krasnoyarskiy-kray/">Железногорск (Красноярский край)</a></li><li><a href="/zhigulevsk/">Жигулёвск</a></li><li><a href="/zhukovskiy/">Жуковский</a></li></ul><ul><li>З</li><li><a href="/zarechnyy/">Заречный</a></li><li><a href="/zelenogorsk/">Зеленогорск</a></li><li><a href="/zelenodolsk/">Зеленодольск</a></li><li><a href="/zlatoust/">Златоуст</a></li></ul><ul><li>И</li><li><a href="/ivanovo/">Иваново</a></li><li><a href="/ivanteevka/">Ивантеевка</a></li><li><a href="/izhevsk/">Ижевск</a></li><li><a href="/izberbash/">Избербаш</a></li><li><a href="/irkutsk/">Иркутск</a></li><li><a href="/iskitim/">Искитим</a></li><li><a href="/ishim/">Ишим</a></li><li><a href="/ishimbay/">Ишимбай</a></li></ul><ul><li>Й</li><li><a href="/yoshkar-ola/">Йошкар-Ола</a></li></ul><ul><li>К</li><li><a href="/kazan/">Казань</a></li><li><a href="/kaliningrad/">Калининград</a></li><li><a href="/kaluga/">Калуга</a></li><li><a href="/kamensk-uralskiy/">Каменск-Уральский</a></li><li><a href="/kamensk-shahtinskiy/">Каменск-Шахтинский</a></li><li><a href="/kamyshin/">Камышин</a></li><li><a href="/kansk/">Канск</a></li><li><a href="/kaspiysk/">Каспийск</a></li><li><a href="/kemerovo/">Кемерово</a></li><li><a href="/kerch/">Керчь</a></li><li><a href="/kineshma/">Кинешма</a></li><li><a href="/kirishi/">Кириши</a></li><li><a href="/kirov/">Киров</a></li><li><a href="/kirovo-chepeck/">Кирово-Чепецк</a></li><li><a href="/kiselevsk/">Киселёвск</a></li><li><a href="/kislovodsk/">Кисловодск</a></li><li><a href="/klin/">Клин</a></li><li><a href="/klincy/">Клинцы</a></li><li><a href="/kovrov/">Ковров</a></li><li><a href="/kogalym/">Когалым</a></li><li><a href="/kolomna/">Коломна</a></li><li><a href="/kolpino/">Колпино</a></li><li><a href="/komsomolsk-na-amure/">Комсомольск-на-Амуре</a></li><li><a href="/kopeysk/">Копейск</a></li><li><a href="/korolev/">Королёв</a></li><li><a href="/kostroma/">Кострома</a></li><li><a href="/kotelniki/">Котельники</a></li><li><a href="/kotlas/">Котлас</a></li><li><a href="/krasnogorsk/">Красногорск</a></li><li><a href="/krasnodar/">Краснодар</a></li><li><a href="/krasnokamensk/">Краснокаменск</a></li><li><a href="/krasnokamsk/">Краснокамск</a></li><li><a href="/krasnoturinsk/">Краснотурьинск</a></li><li><a href="/krasnoyarsk/">Красноярск</a></li><li><a href="/kropotkin/">Кропоткин</a></li><li><a href="/krymsk/">Крымск</a></li><li><a href="/kstovo/">Кстово</a></li><li><a href="/kuzneck/">Кузнецк</a></li><li><a href="/kumertau/">Кумертау</a></li><li><a href="/kungur/">Кунгур</a></li><li><a href="/kurgan/">Курган</a></li><li><a href="/kursk/">Курск</a></li><li><a href="/kyzyl/">Кызыл</a></li></ul><ul><li>Л</li><li><a href="/labinsk/">Лабинск</a></li><li><a href="/leninogorsk/">Лениногорск</a></li><li><a href="/leninsk-kuzneckiy/">Ленинск-Кузнецкий</a></li><li><a href="/lesosibirsk/">Лесосибирск</a></li><li><a href="/lipeck/">Липецк</a></li><li><a href="/liski/">Лиски</a></li><li><a href="/lobnya/">Лобня</a></li><li><a href="/lysva/">Лысьва</a></li><li><a href="/lytkarino/">Лыткарино</a></li><li><a href="/lyubercy/">Люберцы</a></li></ul><ul><li>М</li><li><a href="/magadan/">Магадан</a></li><li><a href="/magas/">Магас</a></li><li><a href="/magnitogorsk/">Магнитогорск</a></li><li><a href="/maykop/">Майкоп</a></li><li><a href="/mahachkala/">Махачкала</a></li><li><a href="/mezhdurechensk/">Междуреченск</a></li><li><a href="/meleuz/">Мелеуз</a></li><li><a href="/miass/">Миасс</a></li><li><a href="/mineralnye-vody/">Минеральные Воды</a></li><li><a href="/minusinsk/">Минусинск</a></li><li><a href="/mihaylovka/">Михайловка</a></li><li><a href="/mihaylovsk/">Михайловск</a></li><li><a href="/michurinsk/">Мичуринск</a></li><li><a href="/">Москва</a></li><li><a href="/murino/">Мурино</a></li><li><a href="/murmansk/">Мурманск</a></li><li><a href="/murom/">Муром</a></li><li><a href="/mytischi/">Мытищи</a></li></ul><ul><li>Н</li><li><a href="/naberezhnye-chelny/">Набережные Челны</a></li><li><a href="/nazran/">Назрань</a></li><li><a href="/nalchik/">Нальчик</a></li><li><a href="/naro-fominsk/">Наро-Фоминск</a></li><li><a href="/naryan-mar/">Нарьян-Мар</a></li><li><a href="/nahodka/">Находка</a></li><li><a href="/nevinnomyssk/">Невинномысск</a></li><li><a href="/neryungri/">Нерюнгри</a></li><li><a href="/neftekamsk/">Нефтекамск</a></li><li><a href="/nefteyugansk/">Нефтеюганск</a></li><li><a href="/nizhnevartovsk/">Нижневартовск</a></li><li><a href="/nizhnekamsk/">Нижнекамск</a></li><li><a href="/nizhniy-novgorod/">Нижний Новгород</a></li><li><a href="/nizhniy-tagil/">Нижний Тагил</a></li><li><a href="/novoaltaysk/">Новоалтайск</a></li><li><a href="/novokuzneck/">Новокузнецк</a></li><li><a href="/novokuybyshevsk/">Новокуйбышевск</a></li><li><a href="/novomoskovsk/">Новомосковск</a></li><li><a href="/novorossiysk/">Новороссийск</a></li><li><a href="/novosibirsk/">Новосибирск</a></li><li><a href="/novotroick/">Новотроицк</a></li><li><a href="/novouralsk/">Новоуральск</a></li><li><a href="/novocheboksarsk/">Новочебоксарск</a></li><li><a href="/novocherkassk/">Новочеркасск</a></li><li><a href="/novoshahtinsk/">Новошахтинск</a></li><li><a href="/novyy-urengoy/">Новый Уренгой</a></li><li><a href="/noginsk/">Ногинск</a></li><li><a href="/norilsk/">Норильск</a></li><li><a href="/noyabrsk/">Ноябрьск</a></li><li><a href="/nyagan/">Нягань</a></li></ul><ul><li>О</li><li><a href="/obninsk/">Обнинск</a></li><li><a href="/odincovo/">Одинцово</a></li><li><a href="/ozersk/">Озёрск</a></li><li><a href="/oktyabrskiy/">Октябрьский</a></li><li><a href="/omsk/">Омск</a></li><li><a href="/orel/">Орёл</a></li><li><a href="/orenburg/">Оренбург</a></li><li><a href="/orehovo-zuevo/">Орехово-Зуево</a></li><li><a href="/orsk/">Орск</a></li></ul><ul><li>П</li><li><a href="/pavlovo/">Павлово</a></li><li><a href="/pavlovskiy-posad/">Павловский Посад</a></li><li><a href="/penza/">Пенза</a></li><li><a href="/pervouralsk/">Первоуральск</a></li><li><a href="/perm/">Пермь</a></li><li><a href="/petrozavodsk/">Петрозаводск</a></li><li><a href="/petropavlovsk-kamchatskiy/">Петропавловск-Камчатский</a></li><li><a href="/podolsk/">Подольск</a></li><li><a href="/polevskoy/">Полевской</a></li><li><a href="/prokopevsk/">Прокопьевск</a></li><li><a href="/prohladnyy/">Прохладный</a></li><li><a href="/pskov/">Псков</a></li><li><a href="/pushkin/">Пушкин</a></li><li><a href="/pushkino/">Пушкино</a></li><li><a href="/pyatigorsk/">Пятигорск</a></li></ul><ul><li>Р</li><li><a href="/ramenskoe/">Раменское</a></li><li><a href="/revda/">Ревда</a></li><li><a href="/reutov/">Реутов</a></li><li><a href="/rzhev/">Ржев</a></li><li><a href="/rossosh/">Россошь</a></li><li><a href="/rostov-na-donu/">Ростов-на-Дону</a></li><li><a href="/rubcovsk/">Рубцовск</a></li><li><a href="/rybinsk/">Рыбинск</a></li><li><a href="/ryazan/">Рязань</a></li></ul><ul><li>С</li><li><a href="/salavat/">Салават</a></li><li><a href="/salehard/">Салехард</a></li><li><a href="/salsk/">Сальск</a></li><li><a href="/samara/">Самара</a></li><li><a href="/sankt-peterburg/">Санкт-Петербург</a></li><li><a href="/saransk/">Саранск</a></li><li><a href="/sarapul/">Сарапул</a></li><li><a href="/saratov/">Саратов</a></li><li><a href="/sarov/">Саров</a></li><li><a href="/svobodnyy/">Свободный</a></li><li><a href="/sevastopol/">Севастополь</a></li><li><a href="/severodvinsk/">Северодвинск</a></li><li><a href="/severomorsk/">Североморск</a></li><li><a href="/seversk/">Северск</a></li><li><a href="/sergiev-posad/">Сергиев Посад</a></li><li><a href="/serov/">Серов</a></li><li><a href="/serpuhov/">Серпухов</a></li><li><a href="/sertolovo/">Сертолово</a></li><li><a href="/sibay/">Сибай</a></li><li><a href="/simferopol/">Симферополь</a></li><li><a href="/slavyansk-na-kubani/">Славянск-на-Кубани</a></li><li><a href="/smolensk/">Смоленск</a></li><li><a href="/snezhinsk/">Снежинск</a></li><li><a href="/solikamsk/">Соликамск</a></li><li><a href="/sosnovyy-bor/">Сосновый Бор</a></li><li><a href="/sochi/">Сочи</a></li><li><a href="/stavropol/">Ставрополь</a></li><li><a href="/staryy-oskol/">Старый Оскол</a></li><li><a href="/sterlitamak/">Стерлитамак</a></li><li><a href="/stupino/">Ступино</a></li><li><a href="/sunzha/">Сунжа</a></li><li><a href="/surgut/">Сургут</a></li><li><a href="/syzran/">Сызрань</a></li><li><a href="/syktyvkar/">Сыктывкар</a></li></ul><ul><li>Т</li><li><a href="/taganrog/">Таганрог</a></li><li><a href="/tambov/">Тамбов</a></li><li><a href="/tver/">Тверь</a></li><li><a href="/timashevsk/">Тимашёвск</a></li><li><a href="/tihvin/">Тихвин</a></li><li><a href="/tihoreck/">Тихорецк</a></li><li><a href="/tobolsk/">Тобольск</a></li><li><a href="/tolyatti/">Тольятти</a></li><li><a href="/tomsk/">Томск</a></li><li><a href="/troick/">Троицк</a></li><li><a href="/tuapse/">Туапсе</a></li><li><a href="/tuymazy/">Туймазы</a></li><li><a href="/tula/">Тула</a></li><li><a href="/tyumen/">Тюмень</a></li></ul><ul><li>У</li><li><a href="/ulan-ude/">Улан-Удэ</a></li><li><a href="/ulyanovsk/">Ульяновск</a></li><li><a href="/urus-martan/">Урус-Мартан</a></li><li><a href="/usole-sibirskoe/">Усолье-Сибирское</a></li><li><a href="/ussuriysk/">Уссурийск</a></li><li><a href="/ust-ilimsk/">Усть-Илимск</a></li><li><a href="/ufa/">Уфа</a></li><li><a href="/uhta/">Ухта</a></li></ul><ul><li>Ф</li><li><a href="/feodosiya/">Феодосия</a></li><li><a href="/fryazino/">Фрязино</a></li></ul><ul><li>Х</li><li><a href="/habarovsk/">Хабаровск</a></li><li><a href="/hanty-mansiysk/">Ханты-Мансийск</a></li><li><a href="/hasavyurt/">Хасавюрт</a></li><li><a href="/himki/">Химки</a></li></ul><ul><li>Ч</li><li><a href="/chaykovskiy/">Чайковский</a></li><li><a href="/chapaevsk/">Чапаевск</a></li><li><a href="/cheboksary/">Чебоксары</a></li><li><a href="/chelyabinsk/">Челябинск</a></li><li><a href="/cherepovec/">Череповец</a></li><li><a href="/cherkessk/">Черкесск</a></li><li><a href="/chernogorsk/">Черногорск</a></li><li><a href="/chehov/">Чехов</a></li><li><a href="/chistopol/">Чистополь</a></li><li><a href="/chita/">Чита</a></li></ul><ul><li>Ш</li><li><a href="/shadrinsk/">Шадринск</a></li><li><a href="/shali/">Шали</a></li><li><a href="/shahty/">Шахты</a></li><li><a href="/shuya/">Шуя</a></li></ul><ul><li>Щ</li><li><a href="/schekino/">Щёкино</a></li><li><a href="/schelkovo/">Щёлково</a></li></ul><ul><li>Э</li><li><a href="/elektrostal/">Электросталь</a></li><li><a href="/elista/">Элиста</a></li><li><a href="/engels/">Энгельс</a></li></ul><ul><li>Ю</li><li><a href="/yuzhno-sahalinsk/">Южно-Сахалинск</a></li><li><a href="/yurga/">Юрга</a></li></ul><ul><li>Я</li><li><a href="/yakutsk/">Якутск</a></li><li><a href="/yalta/">Ялта</a></li><li><a href="/yaroslavl/">Ярославль</a></li></ul>    </div>
+</div>
+
+
+
+ <div class="wrap-footer">
+ <footer class="footer">
+			<div class="footer_nav">
+				<ul>
+					<li class="title">Полезное</li>
+					<li><a href="/auto/price-behavior.html">Цены на авто</a></li>
+					<li><a href="/pdd-online/">ПДД-онлайн</a></li>
+					<li><a href="/sitemap.html">Карта сайта</a></li>
+				</ul>
+				<ul>
+					<li class="title">Работа с объвлениями</li>
+					<li><a href="/auto/add/">Добавить объявление</a></li>
+					<li><a href="/all/platnye-uslugi-v-obyavneniyah.html">Платные услуги</a></li>
+				</ul>
+				<ul>
+					<li class="title">Бизнесу</li>
+					<li><a href="/redir-business-acc.php" target="_blank">Бизнес-аккаунты</a></li>
+					<li><a href="/redir-avtoservisy.php" target="_blank">Размещение автосервисов</a></li>
+					<li><a href="/reklama/">Реклама на сайте</a></li>
+				</ul>
+				<ul class="footer_soc_links">
+					<li class="title">Присоединяйся</li>
+					<li class="vk"><a href="https://vk.com/driffru" target="_blank" rel="nofollow"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
+					<!-- <li class="fb"><a href="https://www.facebook.com/driffru" target="_blank" rel="nofollow"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+					<li class="tg"><a href="https://t.me/driff_ru" target="_blank" rel="nofollow"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+					<li class="yt"><a href="https://www.youtube.com/channel/UCy7OViyu-KwtG5boazmbHQg" target="_blank" rel="nofollow"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+				</ul>
+			</div>
+		</footer>
+		<div class="footer_mid_wrap">
+			<div class="footer_mid">
+				<div class="box-right">
+					<a class="footer-logo" href="/">
+                        <img src="/images/footer/logo-footer.svg" alt="Driff.ru">
+					</a>
+					<div class="copyright-box">
+                        <span>2024 © Driff.ru - Автомобильный портал</span>
+					</div>
+
+					<div class="partners-footer">
+						<a href="/all/polzovatelskoe-soglashenie.html">Пользовательское соглашение</a>	<a href="/all/politika-konfidencialnosti.html">Политика конфиденциальности</a>					   
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="pay_block">
+                <div class="items">
+                    <ul>
+                        <li><img src="/images/footer/yandex-pay.svg" alt="Яндекс Деньги"></li>
+                        <li><img src="/images/footer/mastercard-pay.svg" alt="Mastercard"></li>
+                        <li><img src="/images/footer/visa-pay.svg" alt="Visa"></li>
+                        <li><img src="/images/footer/mir-pay.svg" alt="Мир"></li>
+                        <li><img src="/images/footer/sberbank-pay.svg" alt="Сбербанк"></li>
+                    </ul>
+                </div>
+			</div>
+
+			 <div class="inliner">
+						
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=45228231&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/45228231/3_0_FFFFFFFF_FFFFFFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="45228231" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->   
+             </div>
+		</div>
+ 
+     </div>
+</section>
+
+<noindex>  
+    <!--POPUP WINDOWS-->
+    <div id="bg-popup">
+        <div id="wrap-popup">
+
+            <div id="popup-callback">
+                <div class="line"><span class="callback-icon-1"></span><span class="text">
+             
+                </span></div>
+                <div class="line"><span class="callback-icon-2"></span>
+                    <span class="text"><a href="mailto:info@driff.ru">info@driff.ru</a></span>
+                </div>
+                <div class="line">
+                    <a class="bt-show-red" href="/all/feedback/">Обратная связь</a>
+                </div>
+            </div> 
+
+  <div class="wrap-reg-autoreg-form">
+                <ul id="list-reg-link_js" class="clearfix">
+                    <li>
+                        <span id="link-reg" class="bt-toggle bt-advanced-search bt-reg popup_btn">Регистрация</span>
+                    </li>
+                    <li>
+                        <span id="link-autoreg" class="bt-toggle bt-advanced-search bt-reg">Вход</span>
+                    </li>
+                </ul>
+
+                <form id="reg-form" method="post" action="/autor/user_add.php" enctype="application/x-www-form-urlencoded">
+                    <ul class="list-reg-inputs">
+                        <li>
+                            <label>
+                                <span class="icon-star">Логин</span>
+                                <input type="text" name="login" value="">
+                                
+                            </label>
+                            <div class="err-login"></div>
+                            
+                        </li>
+
+                        <li>
+                            <label>
+                                <span class="icon-star">Пароль</span>
+                                <input type="password" name="pass">
+                            </label>
+                            <div class="err-pass"></div>
+                        </li>
+
+                        <li>
+                            <label>
+                                <span class="icon-star">E-mail</span>
+                                <input id="f_mail" name="mail" value="" type="text">
+                            </label>
+                            <div class="err-email"></div>
+                        </li>
+
+                        <li class="reg-captcha"><label><div class="g-recaptcha" data-sitekey="6LdQe_AUAAAAAP2WpMsRXWk0uMw0FIANUUEQp7kI" id="reg-recaptcha" data-callback="recaptcha_callback"></div></label>
+                            <div class="err-code"></div>
+                        </li>
+                        <li>
+                            <div class="form-item rul fs-form-item custom-select-bg accept-rules-row">
+                                <input type='checkbox'  id="rules" value='0'><div>Я принимаю <a class="ruler" href="/all/polzovatelskoe-soglashenie.html" target="_blank">Соглашение</a> и <a class="ruler" href="/all/politika-konfidencialnosti.html" target="_blank">Политику</div></a>
+                            </div>
+                        </li>
+                    </ul>
+                    <input id="registrMode" type="hidden" name="registr" value="0" />
+                    <input id="sid" type="hidden" name="sid" value="733e2bcb913def34d7e0cf5dd52bab57" />
+                    <input class="bt-show-red no-margin disabled" disabled="disabled" id="ruleser" type="submit" value="Зарегистрироваться">
+                    <a id="show_enter" class="login_btn" href="#">&#8249; Вернуться назад</a>
+                </form><!--end REG FORM-->
+
+                <form id="autoreg-form" action="/autor/enter.php" method="post">
+                    <ul class="list-reg-inputs">
+                        <li>
+                            <label>
+                                <span class="icon-star">Логин</span>
+                                <input type="text" name="name">
+                            </label>
+                            <div class="err-in-login"></div>
+                        </li>
+
+                        <li>
+                            <label>
+                                <span class="icon-star">Пароль</span>
+                                <input type="password" name="pas">
+                            </label>
+                            <div class="err-in-password"></div>
+                        </li>
+                    </ul><!--end AUTOREG FORM-->
+					<input class="bt-show-red no-margin" type="submit" value="Войти"> 
+					<p class="form_lost_pass"><a href="/recover/">Забыли пароль?</a></p>
+					<p class="form_text_b">Ещё нет аккаунта? <a id="show_reg" href="#">Зарегистрировать!</a></p>
+                   
+					<input type="hidden" name="js_action" value="" />
+                </form><!--end AUTOREG FORM-->
+            </div><!--end WRAP REG AUTOREG FORM-->            
+        </div><!--end WRAP POPUP-->
+    </div><!--end BG POPUP-->
+<div id="aj_popup" class="hidden"></div>
+</noindex>
+<!-- вырез 1 -->
+   
+<script>
+var cur_user=false;
+</script>
+
+ 
+<!-- Yandex.RTB R-A-1433762-36 Fullscreen Mobile -->
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    type: 'fullscreen',    
+    platform: 'touch',
+    blockId: 'R-A-1433762-36'
+  })
+})</script>
+
+
+<script src="/js/jquery-1.11.1.min.js"></script>
+
+
+<script>
+    
+    
+    const valuta_kurs = {
+        1: 1,2: 89.5428,3: 98.9355
+    };
+    const DEFAULT_CURRENCY_NAME = "RUB";
+    const fuelLegends = {"ai92":{"param_id":"45","name":"\u0410\u0418-92","name_alt":"\u0431\u0435\u043d\u0437\u0438\u043d\u0430 \u0410\u0418-92","link":"ai-92"},"ai95":{"param_id":"47","name":"\u0410\u0418-95","name_alt":"\u0431\u0435\u043d\u0437\u0438\u043d\u0430 \u0410\u0418-95","link":"ai-95"},"dt":{"param_id":"48","name":"\u0414\u0422","name_alt":"\u0434\u0438\u0437\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0442\u043e\u043f\u043b\u0438\u0432\u0430","link":"dt"},"gaz":{"param_id":"52","name":"\u0413\u0430\u0437","name_alt":"\u0433\u0430\u0437\u0430 (\u043f\u0440\u043e\u043f\u0430\u043d-\u0431\u0443\u0442\u0430\u043d)","link":"gaz"},"ai98":{"param_id":"107","name":"\u0410\u0418-98","name_alt":"\u0431\u0435\u043d\u0437\u0438\u043d\u0430 \u0410\u0418-98","link":"ai-98"},"elektrozapravki":{"param_id":"208","name":"\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0437\u0430\u043f\u0440\u0430\u0432\u043a\u0430","name_alt":"\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0437\u0430\u043f\u0440\u0430\u0432\u043a\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439","link":"elektrozapravki"},"ai100":{"param_id":"255","name":"\u0410\u0418-100","name_alt":"\u0431\u0435\u043d\u0437\u0438\u043d\u0430 \u0410\u0418-100","link":"ai-100"},"acperemenniytok":{"param_id":"262","name":"AC (\u041f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0442\u043e\u043a)","name_alt":"\u0442\u043e\u043a\u0430 \u043c\u0435\u0434\u043b\u0435\u043d\u043d\u043e\u0439 \u0437\u0430\u0440\u044f\u0434\u043a\u0438","link":"ac-peremenniy-tok"},"dcpostoyanniytok":{"param_id":"263","name":"DC (\u041f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u044b\u0439 \u0442\u043e\u043a)","name_alt":"\u0442\u043e\u043a\u0430 \u0431\u044b\u0441\u0442\u0440\u043e\u0439 \u0437\u0430\u0440\u044f\u0434\u043a\u0438","link":"dc-postoyanniy-tok"}};
+</script>
+
+ 
+<script src="/js/owlcarousel/owl.carousel.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+<script>
+
+/* prepend menu icon */
+$(".nav").clone().appendTo("body");
+$('#nav ul li').parents('li').addClass('left_p').prepend('<span class="plus" onclick="show_sub(this);"><i class="fa fa-caret-down" aria-hidden="true"></i></span>');
+
+function show_sub(item){
+  jQuery(item).parent().find('ul').removeClass('hover').toggleClass('show');
+  jQuery('nav ul').removeClass('hover');
+  jQuery(item).find('i').toggleClass('fa-caret-up');
+}
+function set_active_menu(){
+    var url = window.location.pathname;
+    var last = url.substr(-1);
+    if(last !="/")
+        url+="/";
+
+    $('a.menu-item').each(function(){
+        var href=$(this).attr("href");
+        last = href.substr(-1);
+        if(last !="/")
+            href+="/";
+        if(url==href)
+            $(this).closest("li").addClass("active");
+        else
+            $(this).closest("li").removeClass("active");
+    })
+};
+$('#menu-icon').click(function(){
+    $("html").toggleClass("no-x-overflow");
+	$("body").toggleClass("nav_open");
+	$("#menu-icon").toggleClass("nav_close")
+});
+
+</script>
+<script src="/js/jquery.mask.js"></script>
+<script src="/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/js/js.cookie.js"></script>
+<script src="/js/services-analytics.js?v=1714823493"></script>
+<script type="text/javascript" src="/js/jquery-ui.js?v=1.1"></script>
+<script type="text/javascript" src="/js/jquery.ui.touch-punch.min.js"></script><!-- drag&drop fix on Touch -->
+
+<script type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="/js/jcarousel.responsive.js"></script>
+
+<script type="text/javascript" src="/js/amcharts/amcharts.js"></script>        
+<script type="text/javascript" src="/js/amcharts/lang/ru.js?v=1.0"></script>        
+
+<script type="text/javascript" src="/js/amcharts/serial.js"></script>
+<script type="text/javascript" src="/js/amcharts/pie.js"></script>
+
+<script type="text/javascript" src="/js/amchart-fuel.js"></script>        
+
+<script type="text/javascript" src="/inc/fancybox/jquery.fancybox.js"></script>
+
+<script src="/js/data.js"></script>
+<script type="text/javascript" src="/js/jquery.formstyler.min.js?v=1.7"></script>
+<script src="/js/stick.js"></script>
+<script type="text/javascript" src="/js/dropzone.js?v=1667498226"></script>
+<script src="/js/mainJq.js?v=1712420516"></script>
+<script src="/js/jquery.selector_search.js?v=1714823493"></script>
+<script src="/js/services.js?v=1720777903"></script>
+<script src="/inc/service/service_list_ymap.js?v=1714823493"></script>
+
+<script src="/js/tam_calc.js?v=1.0.1"></script>
+<script src="/js/jquery.main.js?v=1714823493"></script>
+<link rel="stylesheet" type="text/css" href="/inc/fancybox/jquery.fancybox.css?v=20200619" />
+<script type="text/javascript" src="/all/templates/driff/js/modal.js"></script>
+
+
+
+<script src="/js/jquery.serialize-object.js"></script>
+
+<script>
+
+$(document).ready(function(){
+    const markaId = $("#com_marka_id").val();
+    handleReviewModulModelUpdate($('#modul_review__model-list'), markaId);
+    $('#com_marka_id').on('input', function(){
+        const markaId = this.value;
+        handleReviewModulModelUpdate($('#modul_review__model-list'), markaId);
+    });
+});
+
+</script>
+
+  
+
+<script>
+
+$('.photo-box .fancybox').fancybox({
+"type": "image",
+    helpers: {
+        overlay: {
+            locked: true
+        }
+    }
+});
+
+$("a#inline").fancybox({
+    helpers: {
+        overlay: {
+            locked: true
+        }
+    }
+});
+
+$('.profile-names').click(function(e) {
+    var $message = $('.profile-sections');
+ 
+    if ($message.css('display') != 'block') {
+        $message.show();
+ 
+        var firstClick = true;
+        $(document).bind('click.myEvent', function(e) {
+            if (!firstClick && $(e.target).closest('.profile-sections').length == 0) {
+                $message.hide();
+                $(document).unbind('click.myEvent');
+            }
+            firstClick = false;
+        });
+    }
+ 
+    e.preventDefault();
+});
+
+$('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1.4,
+        },
+        561:{
+            items:3
+        },
+        1000:{
+            items:4
+        }
+    }
+});
+    
+</script>
+
+<script>
+
+$("#tabs1>a").click( function () {
+        
+    $("#tabs1>a").removeClass("current");
+    $(this).addClass("current");
+    
+    $(".tabs_blocks>div").hide();
+    t_content=$(this).attr("href");
+    $(t_content).show();
+
+    return false
+})
+$("#tabs1>a:first").trigger("click");
+function DropDown(el) {
+    this.dd = el;
+    this.placeholder = this.dd.children('span');
+    this.opts = this.dd.find('ul.dropdown > li');
+    this.val = '';
+    this.index = -1;
+    this.initEvents();
+}
+
+DropDown.prototype = {
+    initEvents : function() {
+        var obj = this;
+
+        obj.dd.on('click', function(event){
+            console.log('control',3);
+            console.log('control', this.className);
+            if ($(this).hasClass('title_input'))
+                return false;
+            $('.dd').not(this).removeClass('active');
+            $(this).toggleClass('active');
+
+            if ($(this).hasClass('active')) {
+                // Без задержки не ставит фокус на поле
+                setTimeout((t) => {
+                    $(t).find('.title_input').focus();
+                }, 50, this);
+            }            
+
+            return false;
+        });
+
+        obj.opts.on('click',function(){
+            console.log('control',4);
+            $('ul.dropdown > li').removeClass('active');
+            $(this).addClass('active');
+            var opt = $(this);
+            obj.val = opt.text();
+            obj.val = obj.val == 'Выбрать' ? obj.placeholder.attr('data-default-text') : obj.val;
+            obj.index = opt.index(); 
+            obj.placeholder.text(obj.val);
+
+        });
+    },
+    getValue : function() {
+        return this.val;
+    },
+    getIndex : function() {
+        return this.index;
+    }
+}
+
+$(function() {
+
+var dd1 = new DropDown( $('.dd1') );
+
+$(document).click(function() {
+    // all dropdowns
+    $('.wrapper-dropdown-3').removeClass('active');
+});
+
+var dd3 = new DropDown( $('.dd3') );
+
+var dd4 = new DropDown( $('.dd4') );
+
+    $(document).click(function() {
+        $('.wrapper-dropdown-3').removeClass('active');
+    });
+
+    var dd = new DropDown( $('.dd5') );
+    $('.dd5').click(function() {
+        $('.dd5').removeClass('visible');
+    });
+
+    dd = new DropDown( $('.dd6') );
+    $('.dd6').click(function() {
+        $('.dd6').removeClass('visible');
+    });
+});
+    
+</script>
+
+<script>
+
+if(!detectmob()){
+        $('.no-selectbox').styler('destroy');  
+    }
+    function DropDownNew1(el) {
+        this.dd = el;
+        this.placeholder = this.dd.children('span');
+        this.opts = this.dd.find('ul.dropdown > li > ul > li');
+        this.val = '';
+        this.index = -1;
+        this.initEvents();
+    }
+    DropDownNew1.prototype = {
+        initEvents : function() {
+            var obj = this;
+
+            obj.dd.on('click', function(event){
+                console.log('control',1);
+                $('.dd').not(this).removeClass('active');
+                $(this).toggleClass('active');
+                return false;
+            });
+
+            obj.opts.on('click',function(){
+                console.log('control',2);
+                $('ul.dropdown > li > ul > li').removeClass('active');
+                $(this).addClass('active');
+                var opt = $(this);
+                obj.val = opt.text();
+                obj.index = opt.index(); 
+                obj.placeholder.text(obj.val);
+            });
+        },
+        getValue : function() {
+            return this.val;
+        },
+        getIndex : function() {
+            return this.index;
+        }
+    }
+    $(function() {
+        var dd = new DropDownNew1( $('.dd2') );
+        $('.dd2').click(function() {
+            $('.dd4').removeClass('visible');
+        });
+
+        $(document).click(function() {
+            $('.wrapper-dropdown-3').removeClass('active');
+        });
+
+    });
+    
+</script>
+
+
+
+<script>
+
+$(window).scroll(function(){
+  $("#div").stop().animate({"marginTop": ($(window).scrollTop() - 500) + "px", "marginLeft":($(window).scrollLeft()) + "px"}, "slow" );
+});
+
+let locationId = $('input[name="city_id"]').val();
+locationId = locationId != "" ? locationId : 348;
+
+// выбор марки -> ajax запрос списка моделей
+$('.markser li').click(function(){
+    if ($(this).val() == 0) return;
+    const locationParam = '&location_id=' + locationId;
+	$(".modelser").load("/_inc_list_model_js.php?add=1&id_markas_f=" + $(this).val() + locationParam, function() {
+        resetModel();
+        $('.dd2').removeClass('dd-disabled');
+    });
+    loadMainBillsCount();
+});
+
+// выбор модели -> ajax запрос списка поколений
+$(document).on('modelsel', function(){
+    const modelId = $('#id_model').val();    
+    const locationParam = '&location_id=' + locationId;
+    resetGen();
+    $('.genser').load("/aj/filter.php?a=gen_sel_main&is_new=0&model="+modelId+locationParam, function(){
+        $('#id-dd3').children().first().text('Поколение');        
+        $('.dd3').removeClass('dd-disabled');
+    });
+    loadMainBillsCount();
+});
+
+$('.dd-year-item').on('click', function() {
+    const year = $(this).val();
+    $('#id-dd4').children().first().text(year);
+    $('#year_ot').val(year);
+    $('#year_do').val(year);
+    loadMainBillsCount();
+});
+
+function handleGensel(_this) {
+    ongoingGensel = true;
+    const genName = $(_this).find('.f-pokolenie-name').text();
+    const currYear = new Date().getFullYear();
+    const genYears = $(_this).find('.f-pokolenie-years').text();
+    const years = genYears.split(' - ');
+    const yearFrom = years[0];
+    const yearTo   = years[1] == 'н.в.' ? currYear : years[1];
+    const genParent = document.getElementById('id-dd3');
+    genParent.firstElementChild.innerText = genName + ' ' + genYears;
+    $('#id_gen').val(_this.dataset.itemId);
+    $('#slug_gen').val(_this.dataset.slug);
+    // Сбрасываем выбор года
+    const yearLabel = $('#id-dd4').children().first();
+    yearLabel.text(yearLabel.attr('data-default-text'));
+    $('#year_ot').val(0);
+    $('#year_do').val(0);
+    
+    // Ограничиваем диапазон выбора года
+    $.getJSON("/aj/filter.php?a=complect_sel&is_new=0&gen="+_this.dataset.itemId+'&location_id=' + locationId, function(data){
+        if (data.yearsF.length) {            
+            $('.yearser > li').each(function() {
+                if (0 == this.value) return;
+                if (data.yearsF.includes(this.value.toString())) {
+                    this.style.display = 'list-item';
+                } else {
+                    this.style.display = 'none';
+                }  
+            });
+        } else {
+            $('.yearser > li').each(function() {
+                if (0 == this.value) return;
+                this.style.display = 'list-item';
+            });
+        }
+        // console.log(data);
+        $('.dd4').removeClass('dd-disabled');
+    });
+    loadMainBillsCount();
+    ongoingGensel = false;
+}
+
+function resetMarka() {
+    $('#id_marka').val(0);
+    $('#slug_marka').val("");
+    resetModel();
+    $('.dd2').addClass('dd-disabled');
+}
+
+function resetModel() {
+    $('#id_model').val(0);
+    $('#slug_model').val("");
+    const modelLabel = $('#id-dd2').children().first();
+    modelLabel.text(modelLabel.attr('data-default-text'));
+    resetGen();
+}
+
+function resetGen() {
+    $('.genser').html('<li class="dd-clean" value="0">Выбрать</li>');
+    const genLabel = $('#id-dd3').children().first();
+    genLabel.text(genLabel.attr('data-default-text'));
+    $('#id_gen').val(0);
+    $('#slug_gen').val("");    
+    $('.dd3').addClass('dd-disabled');
+    $('.dd4').addClass('dd-disabled');
+    resetYear();
+}
+
+function resetYear() {
+    const yearLabel = $('#id-dd4').children().first();
+    yearLabel.text(yearLabel.attr('data-default-text'));
+    $('#year_ot').val(0);
+    $('#year_do').val(0);
+    loadMainBillsCount();
+}
+
+function loadMainBillsCount() {
+    let postData = $("#dd_form").serialize();
+    $.post("/aj/search.php?action=count_bills", postData, function(data){
+        const response = JSON.parse(data);
+        if (response) {
+            $('#f-sf-counter').removeClass('loading');
+            if (response.total_count > 0) {
+                $('#dd-submit').removeClass('dd-empty-set');
+                $('#f-sf-msg').text('Показать');
+                $('#f-sf-counter').text(response.total_count);
+                $('#f-sf-noun').text(declOfNum(response.total_count,['объявление', 'объявления', 'объявлений']));
+            } else {                
+                $('#f-sf-counter').text('  ');
+                $('#f-sf-msg').text('Ничего');
+                $('#f-sf-noun').text('не найдено');
+                $('#dd-submit').addClass('dd-empty-set');
+
+            }
+        }
+    });
+}
+
+
+</script>
+<script>
+
+// Определяет тип:  Авто
+function isMainTypeAuto() {
+    return $('#id_marka').val() == 0;
+}
+// Определяет тип: Марка
+function isMainTypeMarka() {
+    return $('#id_marka').val() != 0 && $('#id_model').val() == 0;
+}
+// Определяет тип: Марка > Модель
+function isMainTypeModel() {
+    return $('#id_marka').val() != 0 && $('#id_model').val() != 0 && $('#id_gen').val() == 0;
+}
+// Определяет тип: Марка > Модель > Год
+function isMainTypeModelGod() {
+    return $('#id_marka').val() != 0 && $('#id_model').val() != 0 && $('#year_ot').val() != 0 && $('#id_gen').val() == 0;
+}
+// Определяет тип: Марка > Модель > Поколение
+function isMainTypeModelGen() {
+    return $('#id_marka').val() != 0 && $('#id_model').val() != 0 && $('#id_gen').val() != 0;
+}
+// Определяет тип: Марка > Модель > Поколение > Поколение > Год
+function isMainTypeModelGenGod() {
+    return $('#id_marka').val() != 0 && $('#id_model').val() != 0 && $('#year_ot').val() != 0 && $('#id_gen').val() != 0;
+}
+
+$('#dd_form').on('submit', function(e) {
+    e.preventDefault();
+    let city = $('#city_slug').val();
+    // Марка
+    const marka = $('#slug_marka').val();
+    // Модель
+    const model = $('#slug_model').val();
+    // Поколение
+    const gen = $('#slug_gen').val();
+    // Год: От и До
+    // const yearFrom = $('select[name="year_ot"]').val();
+    const year   = $('#year_ot').val();
+    // Подбираем тип листинга по выбранным фильтрам + перенаправление
+    console.log(city);
+    if (true === isMainTypeAuto()) {
+        console.log('aaaaaaaaaaaaa');
+        location.href = "https://" + location.host + '/auto/' + city;
+    } else if (true === isMainTypeMarka()) {
+        location.href = "https://" + location.host + '/auto/' + marka + '/' + city;
+    } else if (true === isMainTypeModelGod()) {
+        location.href = "https://" + location.host + '/auto/' + marka + '/' + model + '/' + year + '-god/' + city;
+    } else if (true === isMainTypeModel()) {
+        location.href = "https://" + location.host + '/auto/' + marka + '/' + model + '/' + city;
+    } else if (true === isMainTypeModelGenGod()) {
+        location.href = "https://" + location.host + '/auto/' + marka + '/' + model + '/' + gen + '/' + year + '-god/' + city;
+    } else if (true === isMainTypeModelGen()) {
+        location.href = "https://" + location.host + '/auto/' + marka + '/' + model + '/' + gen + '/' + city;
+    }
+});
+
+</script>
+
+     
+    <script src="/js/echarts-5.4.3.min.js"></script>
+     
+    <script src="/js/echarts_conf_fuel.js?v=1698952719"></script>
+     
+    <script src="/js/fuel-page.js?v=1698996392"></script>
+</body>
+</html>	    
